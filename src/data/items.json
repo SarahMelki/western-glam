@@ -1,0 +1,40 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Western Style 01",
+      "price": 90.95,
+      "imgUrl": "/imgs/western-style-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Western Style 02",
+      "price": 120.00,
+      "imgUrl": "/imgs/western-style-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Western Style 03",
+      "price": 125.45,
+      "imgUrl": "/imgs/western-style-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Western Style 04",
+      "price": 75.45,
+      "imgUrl": "/imgs/western-style-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Western Style 05",
+      "price": 95.00,
+      "imgUrl": "/imgs/western-style-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Western Style 06",
+      "price": 65.05,
+      "imgUrl": "/imgs/western-style-6.jpg"
+    }
+  ]
